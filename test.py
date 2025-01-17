@@ -1,1 +1,1 @@
-printf("Hi i am jenkins job")
+print("Hi i am jenkins job")
